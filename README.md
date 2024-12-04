@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Full Stack developer skills at Northcoders!
+[![roadmap.sh](https://roadmap.sh/card/tall/6750cd6a503943107596b094?variant=dark)](https://roadmap.sh)
 <!--
 **Smasheroonie/Smasheroonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
